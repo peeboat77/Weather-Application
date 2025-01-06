@@ -39,3 +39,58 @@ body {
     color: #555;
     padding: 10px 25px;
  }
+.search button {
+    border: 0;
+    outline: 0;
+    background: #796882;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+    cursor: pointer;
+ }
+
+ .search button img{
+    width: 20px;
+
+ }
+
+ .weather-icon{
+    width: 170px;
+    margin-top: 30px;
+ }
+
+ .weather h1{
+    font-size: 80px;
+    font-weight: 500;
+ }
+ .weather h2{
+    font-size: 45px;
+    font-weight: 400;
+    margin-top: -10px;
+ }
+
+ .details {
+   display: flex;
+   justify-content: space-around;
+   padding: 0 20px;
+   margin-top: 50px;
+}
+
+.col {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   text-align: center;
+   gap: 10px;
+}
+
+.col img {
+   width: 40px;
+   margin-bottom: 10px;
+}
+
+.humidity p, .wind p {
+   font-size: 20px;
+   margin: 0;
+}
