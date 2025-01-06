@@ -12,3 +12,5 @@ A weather app that provides current weather conditions and forecasts based on us
 ## Technologies Used
 - Frontend: HTML, CSS, JavaScript
 - API: OpenWeatherMap API
+## Live Demo
+- [https://drive.google.com/file/d/1ktz9YTEqmjggmBR6M72A_bSN4fLfKjBH/view?usp=sharing]
